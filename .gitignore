@@ -1,0 +1,16 @@
+
+crash-reports/
+
+logs/
+
+saves/
+
+*.log
+
+usernamecache\.json
+
+\.classpath
+
+\.project
+
+options\.txt
